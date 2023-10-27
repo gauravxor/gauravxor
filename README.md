@@ -75,10 +75,6 @@
 ---
 
 # 📈 GitHub Stats:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gauravxor&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-<!-- ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravxor&theme=default&hide_border=false) -->
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravxor&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravxor&bg_color=ffffff&color=ff7b00&line=000000&point=1a0f0f&area=true&hide_border=true)
 
 ---
