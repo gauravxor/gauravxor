@@ -2,7 +2,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=people_follows&followMember=gauravxor)
-[![Github Repositories](https://img.shields.io/badge/Projects-blue?style=flat&logo=github&logoColor=black&labelColor=Green)](https%3A%2F%2Fgithub.com%2Fgauravxor%3Ftab%3Drepositories)
+[![Github Repositories](https://img.shields.io/badge/Projects-blue?style=flat&logo=github&logoColor=black&labelColor=Green)](https://github.com/gauravxor?tab=repositories)
 
 
 
