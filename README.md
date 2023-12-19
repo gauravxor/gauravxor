@@ -13,7 +13,7 @@
 <!-- # 💫 About Me: -->
 🤔 **Who Am I ?** : Recent B.Tech CSE grad, <u>2023</u>, eager to learn and grow in software development. <br>
 🔥 **Passionate About** : Developing scalable softwares used by millions, if not billions! <br>
-🫱🏽‍🫲🏾 **Looking For** : Opportunities to learn and grow in software/web development. <br>
+🫱🏽‍🫲🏾 **Looking For** : Software development or Software/Cloud Support Engineer Roles <br>
 🌱 **Currently** : Working on my personal **MERN stack** project [**Indian Tourism**](https://github.com/gauravxor/indian-tourism) ✨. <br>
 💼 **Experience** : Former **Software Support Engineer Intern** at **Amazon**, 6 months, 2023.<br>
 📫 **How to Contact ?**: ✉️ [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com)</u> <br><br>
