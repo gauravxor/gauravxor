@@ -11,7 +11,7 @@
 
 
 <!-- # 💫 About Me: -->
-🤔 **Who Am I ?** :  A certified _problem creator_ & **solver** <br>
+🤔 **Who Am I ?** :  A _problem creator_ & **solver** <br>
 ⚡ **Why?** : I ask tough questions to uncover bugs, fix blind spots, and build better systems.  
 🔥 **Passionate About** : Crafting scalable softwares. <br>
 🫱🏽‍🫲🏾 **Looking For** : Answers & better way to do things. <br>
