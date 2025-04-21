@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!👋 I'm Gaurav Aggarwal</h1>
+<h1 align="center"> Hi!👋 I'm Gaurav</h1>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=people_follows&followMember=gauravxor)
@@ -11,11 +11,11 @@
 
 
 <!-- # 💫 About Me: -->
-🤔 **Who Am I ?** : An engineer <br>
-🔥 **Passionate About** : Developing scalable softwares used by millions, if not billions! <br>
-🫱🏽‍🫲🏾 **Looking For** : Peace & better way to do stuffs. <br>
-🌱 **Currently** : Working as a Backend Engineer at [Growth Loops Technology](https://growth-loop.io).<br>
-📫 **How to Contact ?**: ✉️ [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com)</u> <br><br>
+🤔 **Who Am I ?** :  A certified _problem creator_ & **solver** <br>
+⚡ **Why?** : I ask tough questions to uncover bugs, fix blind spots, and build better systems.  
+🔥 **Passionate About** : Crafting scalable softwares. <br>
+🫱🏽‍🫲🏾 **Looking For** : Answers & better way to do things. <br>
+📫 **Want to Hire/Contact ?** : Drop an email at [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com)</u> <br><br>
 
 <div align="center">
 
