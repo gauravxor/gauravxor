@@ -11,11 +11,10 @@
 
 
 <!-- # 💫 About Me: -->
-🤔 **Who Am I ?** :  A _problem creator_ & **solver** <br>
-⚡ **Why?** : I ask tough questions to uncover bugs, fix blind spots, and build better systems.  
-🔥 **Passionate About** : Crafting scalable softwares. <br>
-🫱🏽‍🫲🏾 **Looking For** : Answers & better way to do things. <br>
-📫 **Want to Hire/Contact ?** : Drop an email at [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com)</u> <br><br>
+🚀 **Problem Creator & Solver** - I dig deep to uncover hidden bugs and blind spots, turning complexity into scalable solutions. <br>
+💡 **Passionate Backend Engineer** - Building reliable, high-performance systems that grow with your business. <br>
+🔍 **What I’m Looking For** - Challenging roles in software or backend engineering where I can make a real impact. Open to frontend but my focus is backend. <br>
+📬 **Let’s Build Something Great** - Reach me at [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com) <br><br>
 
 <div align="center">
 
