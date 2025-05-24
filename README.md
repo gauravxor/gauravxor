@@ -45,7 +45,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -53,21 +52,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-F47024?style=flat&logo=elastic&logoColor=white)
 
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![DyanamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-005EB8?style=flat&logo=amazon-eks&logoColor=white)
-![ECS](https://img.shields.io/badge/Amazon%20ECS-F58536?style=flat&logo=amazon-ecs&logoColor=white)
-![Route 53](https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=flat&logo=amazon-route-53&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon%20EC2-F58536?style=flat&logo=amazon-ec2&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
-![Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS%20IAM-1B4E80?style=flat&logo=amazon-iam&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-F58536?style=flat&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=flat&logo=amazon-route-53&logoColor=white)
+![DyanamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-1B4E80?style=flat&logo=amazon-iam&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-F58536?style=flat&logo=amazon-ecs&logoColor=white)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)
 
 <br><br>
 
