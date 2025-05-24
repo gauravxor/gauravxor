@@ -11,10 +11,7 @@
 
 
 <!-- # 💫 About Me: -->
-🚀 **Problem Creator & Solver** - I dig deep to uncover hidden bugs and blind spots, turning complexity into scalable solutions. <br>
-💡 **Passionate Backend Engineer** - Building reliable, high-performance systems that grow with your business. <br>
-🔍 **What I’m Looking For** - Challenging roles in software or backend engineering where I can make a real impact. Open to frontend but my focus is backend. <br>
-📬 **Let’s Build Something Great** - Reach me at [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com) <br><br>
+I'm a **Backend Engineer** enthusiastic about building reliable systems and finding effective solutions to complex problems. I'm keen to grow in challenging software engineering roles where I can make a tangible impact. Open to frontend opportunities too! Let's connect at  [**gauravxor@gmail.com**](mailto:gauravxor@gmail.com). <br><br>
 
 <div align="center">
 
